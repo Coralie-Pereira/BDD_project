@@ -1,0 +1,4 @@
+git rm --cached /.idea/db.iml
+git rm --cached /.idea/modules.xml
+git rm --cached /.idea/php.xml
+git rm --cached /.idea/worspace.xml
