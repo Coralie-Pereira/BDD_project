@@ -55,8 +55,4 @@ Concernant les failles de sécurités :
 
 <!-- /////////////////////////////////// -->
 
-<!-- Ressenti personnel de ce projet -->
-
-- Ce fut un examen compliqué pour moi en si peu de temps en alternant ce projet avec la semaine unity c#.
-- J'ai essayer de faire le maximum possible en prenant la décision de ne pas faire la partie 1 pour pouvoir avoir assez de temps d'avoir quelque chose a faire dans mon projet surtout que la deuxieme partie est une version clean.
 - Mon schema de la BDD est disponnible dans le dossier image 'schema bdd.png'x. Ainsi que le script de ma bdd, elle se trouve parmi les dossiers elle est intitulé ' bdd_avion.sql '.
